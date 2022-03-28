@@ -1,0 +1,1 @@
+// MarketNewsCarousel.tests.tsx

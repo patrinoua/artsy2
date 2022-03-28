@@ -1,0 +1,1 @@
+// AuctionsCarousel.tests.tsx
