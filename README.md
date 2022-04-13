@@ -20,7 +20,7 @@ We also want to follow the same idea as we have on the [Design], in Figma
 
 [Atoms]: Buttons, radios, checkboxes, dropdown menus, input, icons, banners, tiles, pills
 
-[Molecules]: headers, carousels, "content", "editorial"\*
+[Molecules]: headers, carousels, content, editorial
 
 Atoms and Molecules are the suggested ones, but if we want to take it a step further we can also consider Organisms, Templates and Pages
 
@@ -30,7 +30,6 @@ Atoms and Molecules are the suggested ones, but if we want to take it a step fur
 
 [Pages]: Home, Fairs, Auctions, Sell With Artsy
 
-\* Whatever is in quotes (" ") means we can argue about that...
 
 [design]: https://www.figma.com/file/m6gDpKHEWDbYJyrwsVZDBr/Artsy-3.0-Design-System?node-id=2%3A614
 [atoms]: https://www.figma.com/file/m6gDpKHEWDbYJyrwsVZDBr/Artsy-3.0-Design-System?node-id=2%3A614
