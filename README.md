@@ -23,8 +23,7 @@ We also want to follow the same idea as we have on the [Design], in Figma
 
 Atoms and Molecules are the suggested ones, but if we want to take it a step further we can also consider Organisms, Templates and Pages
 
-[organisms]: grids
-
+[Organisms]: grids
 [Templates]: auctions, fairs, galleries
 [Pages]: Home, Fairs, Auctions, Sell With Artsy
 
