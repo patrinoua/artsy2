@@ -11,6 +11,7 @@ We want to swift toward a less copy paste approach and have things developed onc
 #### You may be thinking:
 
 "But why is copy and pasting a bad idea? My code works and I don't need to go around different folders, I can just quickly define things locally"
+So why is this a bad idea?
 
 - It does take up extra developer time to create components from scratch when we could just reuse them
 - It makes our code more prone to errors since all the component definitions need to be debugged in a case of a bug/error. Maybe we fix the component in one place where it's currently breaking but we forget to fix it in another place?
