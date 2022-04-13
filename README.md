@@ -6,7 +6,6 @@ This project does not "run" it's just copy paste of code to showcase structure
 
 ## Palette
 
-The general principle is: **Copy pasting the same component over and over again is a bad idea**.
 
 #### You may be thinking:
 
