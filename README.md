@@ -6,6 +6,7 @@ This project does not "run" it's just copy paste of code to showcase structure
 
 ## Palette
 
+We want to swift toward a less copy paste approach and have things developed once and reuse them.
 
 #### You may be thinking:
 
